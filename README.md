@@ -13,7 +13,6 @@ Full-Stack | Software engineer :robot:. (In progress)
 
 ```javascript
 const jayantDhawan = {
-  pronouns: "he" | "him",
   code: [Javascript, Java, Python, C, C++, HTML, CSS],
   tools: [Vue, Node, Git],
   databases: [mongodb, mysql]
