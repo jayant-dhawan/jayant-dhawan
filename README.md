@@ -12,7 +12,7 @@ Full-Stack | Software engineer :robot:. (In progress)
 ### A little more about me...  
 
 ```javascript
-const jayant-dhawan = {
+const jayantDhawan = {
   pronouns: "he" | "him",
   code: [Javascript, Java, Python, C, C++, HTML, CSS],
   tools: [Vue, Node, Git],
