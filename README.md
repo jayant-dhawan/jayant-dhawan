@@ -14,9 +14,9 @@ Full-Stack | Software Engineer :robot:. (In progress)
 ```javascript
 const jayantDhawan = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Java", "Python", "C", "C++", "HTML", "CSS"],
-  tools: ["Vue", "Node", "Git"],
-  databases: ["MongoDB", "MySQL"]
+  code: ["Javascript", "Java", "HTML", "CSS"],
+  tools: ["Vue.js", "Node", "Git"],
+  databases: ["MongoDB"]
 }
 ```
 🎯 Portfolio site: [Portfolio](https://jayant-dhawan.github.io/)
