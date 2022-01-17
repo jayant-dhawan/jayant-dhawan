@@ -14,8 +14,8 @@ Full-Stack | Software Engineer :robot:. (In progress)
 ```javascript
 const jayantDhawan = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Java", "HTML", "CSS"],
-  tools: ["Vue.js", "Node.js", "Git"],
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["Vue.js", "React", "Node.js", "Nestjs", "Express", "Git"],
   databases: ["MongoDB"]
 }
 ```
