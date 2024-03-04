@@ -14,9 +14,10 @@ Full-Stack Engineer :robot:
 ```javascript
 const jayantDhawan = {
   pronouns: "he" | "him",
-  code: ["Javascript", "HTML", "CSS"],
-  tools: ["Vue.js", "React", "Node.js", "Nestjs", "Express", "Git"],
-  databases: ["MongoDB"]
+  code: ["Javascript", "TypeScript", "Python" "HTML", "CSS"],
+  tools: ["React", "React Native", "Node.js", "Next.js", "GraphQL", "Frappe", "Express.js", "Git"],
+  databases: ["MongoDB", "MySQL", "Postgresql"],
+  cloud: ["AWS"]
 }
 ```
 🎯 Portfolio site: [Portfolio](https://jayant-dhawan.github.io/)
